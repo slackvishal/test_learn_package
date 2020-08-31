@@ -1,8 +1,8 @@
 name: test_learn_package
 description: First Flutter package but not last.
 version: 0.0.1
-author:
-homepage:
+author: Vishal Infant Lambert <vishalinfant2@gmail.com>
+homepage: https://github.com/slackvishal/test_learn_package
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
